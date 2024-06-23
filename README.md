@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scientistbodybuilder
 - 👀 I’m interested in working out, reading, and learning new programming languages and improving my skills
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning Flask ( I like it )
 - 💞️ I’m looking to develop cool projects and gain experience working with software and data
 - 📫 How to reach me email: o.jikineh@mail.utoronto.ca
 
