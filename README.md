@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @scientistbodybuilder
-- 👀 I’m interested in working out, reading, learning new programming languages, and improving my skills
-- 🌱 I’m currently learning about machine learning ( My models will predict the winner of the 2026 World Cup)
-- 💞️ I’m looking to develop cool projects and gain experience working with software and data
-- 📫 How to reach me, email: o.jikineh@mail.utoronto.ca
+## Hey There!
 
-<!---
-scientistbodybuilder/scientistbodybuilder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Ousman, a software developer based in Toronto.
+
+I build cool things I find exciting or impactful.
+
+My main tech stack is React/Angular, TypeScript, Tailwind, Java, Spring Boot, and Python.
+
+Fun Facts:
+- I like working out (hence the username)
+- I am a book nerd (Currently on the Stormlight Archives)
+- I love lego
